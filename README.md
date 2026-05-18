@@ -44,7 +44,8 @@ En este ejercicio se realizaron operaciones matemáticas entre columnas para cal
 
 ![Captura Ejercicio 2](captura2.png)
 
----
+<img width="1366" height="435" alt="image" src="https://github.com/user-attachments/assets/102f8b64-f06e-4a43-9e0d-1e4b25e98034" />
+
 
 ### 3. Lectura de archivos CSV
 
