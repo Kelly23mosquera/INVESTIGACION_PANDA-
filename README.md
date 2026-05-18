@@ -83,11 +83,11 @@ En este ejercicio se generaron datos sintéticos relacionados con ventas y clien
 
 ### Herramientas utilizadas
 
- Python:  Lenguaje de programación utilizado 
- Pandas:  Manipulación y análisis de datos 
- NumPy:  Generación de datos sintéticos 
- Google Colab:  Desarrollo y ejecución del notebook 
- GitHub: Publicación y control del proyecto 
+ *Python:  Lenguaje de programación utilizado 
+ *Pandas:  Manipulación y análisis de datos 
+ *NumPy:  Generación de datos sintéticos 
+ *Google Colab:  Desarrollo y ejecución del notebook 
+ *GitHub: Publicación y control del proyecto 
 
 
 ## Competencias desarrolladas
