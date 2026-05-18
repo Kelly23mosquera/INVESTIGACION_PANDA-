@@ -49,8 +49,6 @@ En este ejercicio se creó un DataFrame utilizando información de una librería
 
 #### Resultado obtenido
 
-![Captura Ejercicio 1](captura1.png)
-
 <img width="859" height="278" alt="279ea460-e37b-407c-bace-2dfb082377af" src="https://github.com/user-attachments/assets/a7c9f6d1-cb1b-4c91-a773-76c79493a001" />
 
 
