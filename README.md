@@ -52,14 +52,12 @@ En este ejercicio se creó un DataFrame utilizando información de una librería
 <img width="859" height="278" alt="279ea460-e37b-407c-bace-2dfb082377af" src="https://github.com/user-attachments/assets/a7c9f6d1-cb1b-4c91-a773-76c79493a001" />
 
 
-
 ### 2. Operaciones entre columnas
 
 En este ejercicio se realizaron operaciones matemáticas entre columnas para calcular el promedio de notas y la diferencia entre exámenes de varios estudiantes, mostrando los resultados de manera organizada en un DataFrame.
 
 #### Resultado obtenido
 
-![Captura Ejercicio 2](captura2.png)
 
 <img width="1366" height="435" alt="image" src="https://github.com/user-attachments/assets/102f8b64-f06e-4a43-9e0d-1e4b25e98034" />
 
@@ -70,7 +68,6 @@ Se utilizó Pandas para leer un archivo CSV publicado desde Google Sheets. Poste
 
 #### Resultado obtenido
 
-![Captura Ejercicio 3](captura3.png)
 
 <img width="807" height="339" alt="image" src="https://github.com/user-attachments/assets/71912950-ad11-425b-8356-e1bb24b42b9e" />
 
@@ -80,8 +77,6 @@ Se utilizó Pandas para leer un archivo CSV publicado desde Google Sheets. Poste
 En este ejercicio se generaron datos sintéticos relacionados con ventas y clientes para representar información simulada mediante un DataFrame.
 
 #### Resultado obtenido
-
-![Captura Ejercicio 4](captura4.png)
 
 <img width="766" height="415" alt="image" src="https://github.com/user-attachments/assets/dadec889-1296-4de2-9cd2-6af8d83a1fc1" />
 
