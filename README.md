@@ -34,6 +34,7 @@ Comprender las principales funciones y aplicaciones de la librería Pandas en Py
 Para utilizar la librería Pandas en Python es necesario instalarla previamente en el entorno de trabajo. La instalación se puede realizar mediante el gestor de paquetes pip, incluido en Python. Este proceso permite descargar e integrar la librería para poder utilizar sus funciones relacionadas con el análisis y manipulación de datos.
 
 **pip install pandas**
+
 En Google Colab normalmente Pandas ya se encuentra instalada por defecto, por lo que no es necesario realizar nuevamente la instalación. Sin embargo, es importante conocer este comando para trabajar en otros entornos de desarrollo como Visual Studio Code, PyCharm o Jupyter Notebook.
 
 ### Temas investigados
