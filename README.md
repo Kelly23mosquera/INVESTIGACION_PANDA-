@@ -8,7 +8,7 @@
 - Universidad: Universidad del Pacífico
 - Asignatura: Inteligencia Artificial 
 
-# INVESTIGACION_PANDA-
+
 # Investigación sobre Pandas en Python
 
 ### Descripción de la actividad
