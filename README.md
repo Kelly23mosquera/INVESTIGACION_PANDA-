@@ -16,6 +16,12 @@
 La presente actividad académica tiene como finalidad realizar una investigación sobre la librería Pandas en Python y desarrollar ejercicios prácticos utilizando Google Colab. A través de esta actividad se busca comprender la importancia de Pandas en el análisis y manipulación de datos, así como fortalecer los conocimientos básicos de programación orientados a la ciencia de datos y la inteligencia artificial.
 Además de la investigación teórica, se llevo acabo el  desarrollaro de varios  ejercicios relacionados con la creación de DataFrames, operaciones entre columnas, lectura de archivos CSV y trabajo con datos sintéticos, permitiendo aplicar de manera práctica los conceptos aprendidos en esta investigacion.
 
+Los ejercicios incluyen:
+- Creación de **DataFrames**  
+- Operaciones entre columnas  
+- Lectura de archivos **CSV**  
+- Trabajo con **datos sintéticos**
+
 
 ### Objetivo
 
