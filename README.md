@@ -1,3 +1,13 @@
+
+<img width="254" height="148" alt="image" src="https://github.com/user-attachments/assets/034fc78f-43a0-4290-9c16-0b81c5ee2ff3" />
+
+
+
+- Nombre: Kelly Jhoana  Mosquera Urbano
+- Programa: Ingeniería de Sistemas
+- Universidad: Universidad del Pacífico
+- Asignatura: Inteligencia Artificial 
+
 # INVESTIGACION_PANDA-
 # Investigación sobre Pandas en Python
 
@@ -16,11 +26,20 @@ Comprender las principales funciones y aplicaciones de la librería Pandas en Py
 
 Durante el desarrollo de la actividad se investigaron los siguientes temas:
 
-- ¿Qué es Pandas?
-- ¿Para qué sirve Pandas?
-- Objetivo principal de la librería.
-- Principales funciones y características.
-- Importancia de Pandas en la Inteligencia Artificial y el análisis de datos.
+## ¿Qué es Pandas?
+Pandas es una librería de Python especializada en el análisis y manipulación de datos mediante estructuras llamadas DataFrames.
+
+## ¿Para qué sirve Pandas?
+  Pandas permite organizar, limpiar, analizar y procesar datos de manera eficiente.
+
+## Objetivo principal de la librería.
+  Su objetivo principal es facilitar el manejo de datos estructurados en Python.
+  
+ ## Principales funciones y características.
+  Pandas permite crear DataFrames, leer archivos CSV, realizar operaciones estadísticas y manipular información fácilmente.
+  
+## Importancia de Pandas en la Inteligencia Artificial y el análisis de datos.
+Pandas es ampliamente utilizado para preparar y analizar datos antes de entrenar modelos de inteligencia artificial y aprendizaje automático.
 
 ## Ejercicios realizados
 
@@ -55,7 +74,8 @@ Se utilizó Pandas para leer un archivo CSV publicado desde Google Sheets. Poste
 
 ![Captura Ejercicio 3](captura3.png)
 
----
+<img width="807" height="339" alt="image" src="https://github.com/user-attachments/assets/71912950-ad11-425b-8356-e1bb24b42b9e" />
+
 
 ### 4. Trabajo con datos sintéticos
 
@@ -65,29 +85,32 @@ En este ejercicio se generaron datos sintéticos relacionados con ventas y clien
 
 ![Captura Ejercicio 4](captura4.png)
 
----
+<img width="766" height="415" alt="image" src="https://github.com/user-attachments/assets/dadec889-1296-4de2-9cd2-6af8d83a1fc1" />
 
-## Herramientas utilizadas
 
-- Python
-- Pandas
-- NumPy
-- Google Colab
-- GitHub
-- Google Sheets
+### Herramientas utilizadas
 
----
+ Python:  Lenguaje de programación utilizado 
+ Pandas:  Manipulación y análisis de datos 
+ NumPy:  Generación de datos sintéticos 
+ Google Colab:  Desarrollo y ejecución del notebook 
+ GitHub: Publicación y control del proyecto 
+
+
+## Competencias desarrolladas
+
+- Manipulación de datos con Pandas
+- Creación y uso de DataFrames
+- Lectura de archivos CSV
+- Organización de información en tablas
+- Uso de Google Colab y GitHub
 
 ## Conclusiones
 
-- Pandas es una herramienta fundamental para el análisis y manipulación de datos en Python.
-- Los DataFrames permiten organizar información de manera estructurada y eficiente.
+- Debido a las consultas realizadas se pudo evidenciar que Pandas es una herramienta fundamental para el análisis y manipulación de datos en Python.
+- Los DataFrames nos  permiten organizar la  información de manera estructurada y eficiente.
 - La lectura de archivos CSV facilita el procesamiento de datos provenientes de diferentes fuentes.
 - Los ejercicios prácticos permitieron fortalecer conocimientos básicos sobre análisis de datos utilizando Python.
 - Pandas es ampliamente utilizado en áreas como inteligencia artificial, ciencia de datos y análisis estadístico.
 
----
 
-## Enlace al Notebook en Google Colab
-
-[Abrir Notebook en Google Colab](PEGAR_AQUI_EL_ENLACE_DEL_NOTEBOOK)
