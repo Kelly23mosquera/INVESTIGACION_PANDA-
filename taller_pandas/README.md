@@ -7,6 +7,7 @@
 
 ##  Programa
 Ingeniería de Sistemas
+
 Universidad del Pacífico
 
 ##  Corte II – 2026
