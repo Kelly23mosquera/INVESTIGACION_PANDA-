@@ -5,14 +5,12 @@
 * Kelly Jhoana Mosquera Urbano
 * Anyela Katerine Rentería Cuama
 
-## 🏫 Programa
-
+##  Programa
 Ingeniería de Sistemas
 Universidad del Pacífico
 
-## 📅 Corte II – 2026
+##  Corte II – 2026
 
----
 
 ## 📌 Descripción del proyecto
 
