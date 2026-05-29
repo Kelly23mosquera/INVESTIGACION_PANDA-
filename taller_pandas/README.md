@@ -10,8 +10,8 @@ CORTE II
 
 Integrantes:
 
-Kelly Jhoana Mosquera Urbano
-Anyela Katerine Rentería Cuama
+* Kelly Jhoana Mosquera Urbano
+* Anyela Katerine Rentería Cuama
 
 Programa: Ingeniería de Sistemas
 
