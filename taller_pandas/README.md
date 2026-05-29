@@ -25,10 +25,11 @@ Universidad del Pacífico
 
 ##  Descripción del proyecto
 
-Este taller tiene como objetivo aplicar los conocimientos adquiridos en la librería **Pandas** de Python para el análisis, manipulación y transformación de datos.
+Este proyecto consiste en el desarrollo de un taller práctico utilizando la librería **Pandas** en Python para la manipulación, limpieza y análisis de datos.
 
-A través de diferentes ejercicios, se trabaja la limpieza de datos, filtrado, ordenamiento y análisis básico de información, con el fin de fortalecer habilidades en el manejo de datos estructurados.
+A lo largo del notebook se realizaron diferentes procesos de transformación y exploración de datos, incluyendo la creación de nuevas columnas, cálculos matemáticos y estadísticos, así como el análisis descriptivo de la información contenida en el conjunto de datos.
 
+El dataset utilizado contiene información relacionada con productos tecnológicos, precios, cantidades, costos de envío y categorías, permitiendo aplicar operaciones de análisis de datos de forma práctica.
 
 
 # Objetivos
@@ -53,43 +54,39 @@ Aplicar técnicas de manipulación, análisis y procesamiento de datos utilizand
 - Pandas 
 - GitHub
 
-# Librerías Utilizadas
+## Librerías Utilizadas
 
 import pandas as pd
 
+**Descripción de la Librería**
+Pandas es una biblioteca especializada en la manipulación y análisis de datos estructurados mediante DataFrames.
 
-## Descripción de Librerías
+**Funciones Utilizadas**
 
-### Pandas
+* Lectura de archivos CSV
+* Creación de DataFrames
+* Operaciones matemáticas
+* Estadística descriptiva
+* Filtrado de información
+* Exportación de datos
 
-Biblioteca especializada en manipulación y análisis de datos estructurados mediante DataFrames.
-
-Funciones utilizadas:
-
-- Lectura de archivos Excel
-- Creación de DataFrames
-- Operaciones matemáticas
-- Estadística descriptiva
-- Filtrado de información
-- Exportación de datos
 
 
   # Dataset Utilizado
-
 El dataset utilizado corresponde a un conjunto de datos compuesto por productos tecnológicos.
 
 ## Variables del Dataset
 
  **Variable**     
  
-PRODUCTO: Nombre del producto tecnológico 
-PRECIO : Precio unitario del producto 
-CANTIDAD : Cantidad disponible 
-COSTO DE ENVIO : Valor asociado al envío 
-CATEGORIA  : Clasificación del producto 
+* PRODUCTO: Nombre del producto tecnológico 
+* PRECIO : Precio unitario del producto 
+* CANTIDAD : Cantidad disponible 
+* COSTO DE ENVIO : Valor asociado al envío 
+* CATEGORIA  : Clasificación del producto 
 
-El conjunto de datos contiene:
 
+## Características del Dataset
 - 60 registros
 - Productos tecnológicos
 - Variables numéricas y categóricas
@@ -118,30 +115,34 @@ Durante esta etapa se realizó:
 - Identificación de tipos de datos
 - Descripción estadística
 
-Funciones utilizadas:
+## Funciones Utilizadas
 
-* python
-df.head()
+**df.head()**
+Muestra las primeras 5 filas del DataFrame, permitiendo visualizar la estructura inicial del conjunto de datos.
 
-df.tail()
+**df.tail()**
+Muestra las últimas 5 filas del DataFrame para verificar la información final del conjunto de datos.
 
-df.shape
+**df.shape**
+Permite conocer la cantidad de filas y columnas presentes en el DataFrame.
 
-df.describe()
+**df.describe()**
+Genera un resumen estadístico de las variables numéricas, incluyendo medidas como media, desviación estándar, valores mínimos y máximos.
 
-df.dtypes
+**df.dtypes**
+Muestra el tipo de dato de cada columna del DataFrame, facilitando la identificación de variables numéricas y categóricas.
+
 
 ## 2. Operaciones Matemáticas
 
 Se generaron nuevas variables:
 
-### Total_Venta
-
+**Total_Venta**
 Total_Venta = Precio × Cantidad
 
-### Costo_Total
-
+**Costo_Total**
 Costo_Total = Total_Venta + Costo_Envio
+
 
 ## 3. Análisis Porcentual
 
@@ -172,26 +173,24 @@ Se realizaron procesos de:
 - Selección de productos
 
 
-## 📊 Resultados esperados
+## Resultados esperados
 
 - Comprensión del manejo de DataFrames en Pandas
 - Aplicación de filtros y condiciones
 - Organización y limpieza de datos
 - Interpretación de resultados obtenidos
 
+ ## Conclusiones
+ 
+La librería Pandas demuestra ser una herramienta eficiente para manipular y analizar grandes volúmenes de información estructurada.
 
-# Conclusiones
+Las operaciones matemáticas permiten generar nuevas variables que enriquecen el análisis y facilitan la toma de decisiones.
 
-- La librería Pandas permite manipular grandes volúmenes de información de manera eficiente.
+La estadística descriptiva aporta indicadores clave para interpretar el comportamiento de los datos y comprender su variabilidad.
 
-- Las operaciones matemáticas facilitan la generación de nuevas variables útiles para el análisis.
+El uso de DataFrames simplifica procesos de organización, filtrado y procesamiento, haciendo más ágil el trabajo con conjuntos de datos.
 
-- La estadística descriptiva proporciona información relevante para interpretar el comportamiento de los datos.
-
-- El uso de DataFrames simplifica los procesos de organización, filtrado y procesamiento de información.
-
-- Python proporciona herramientas robustas para proyectos relacionados con análisis de datos e inteligencia artificial.
-
+Finalmente, Python ofrece un ecosistema robusto que, junto con Pandas, se convierte en un recurso esencial para proyectos de análisis de datos e inteligencia artificial.
 
 # Integrantes
 
