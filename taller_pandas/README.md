@@ -172,6 +172,13 @@ Se realizaron procesos de:
 - Ordenamiento por ventas
 - Selección de productos
 
+## Procesos Realizados
+
+**Limpieza de Datos**
+Se eliminaron espacios innecesarios en los nombres de las columnas y se transformaron variables monetarias a formato numérico para facilitar los cálculos matemáticos.
+
+**Transformación de Datos**
+Se crearon nuevas columnas mediante operaciones aritméticas para calcular ventas totales, costos e indicadores relacionados con el análisis del dataset.
 
 ## Resultados esperados
 
@@ -179,6 +186,13 @@ Se realizaron procesos de:
 - Aplicación de filtros y condiciones
 - Organización y limpieza de datos
 - Interpretación de resultados obtenidos
+
+## Cómo Ejecutar el Proyecto
+
+* Abrir el notebook en Google Colab.
+* Ejecutar las celdas en orden.
+* Verificar la carga correcta del dataset desde Google Sheets.
+* Analizar los resultados generados en cada sección.
 
  ## Conclusiones
  
