@@ -56,7 +56,7 @@ Aplicar técnicas de manipulación, análisis y procesamiento de datos utilizand
 
 ## Librerías Utilizadas
 
-import pandas as pd
+**import pandas as pd**
 
 **Descripción de la Librería**
 Pandas es una biblioteca especializada en la manipulación y análisis de datos estructurados mediante DataFrames.
