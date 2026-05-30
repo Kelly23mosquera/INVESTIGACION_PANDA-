@@ -19,8 +19,8 @@ Universidad del Pacífico
 
 2026
 
-
-
+Link de colab
+https://colab.research.google.com/github/Kelly23mosquera/INVESTIGACION_PANDA-/blob/main/taller_pandas/taller.ipynb
 # Taller de Pandas – Análisis de Datos en Python
 
 ##  Descripción del proyecto
